@@ -47,7 +47,7 @@ Link: srv-61.kim.johnson.biz/login
 
 ---
 
-## Supporting Files (`/content` folder)
+## Supporting Files (`/Web Compromise` folder)
 
 ### 🔍 Provided Logs
 
