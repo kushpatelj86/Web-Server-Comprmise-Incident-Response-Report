@@ -7,3 +7,18 @@ This project simulates a real-world cybersecurity incident involving a phishing-
 
 ---
 
+## 📄 Main Deliverable
+
+**`IncidentResponseForm.docx`** – An executive-level incident report detailing:
+
+- 📅 Attack timeline  
+- 🧾 Indicators of compromise (IOCs)
+- Findings
+- 💸 Financial impact (~$466,700)  
+- 🛠 Response actions taken  
+- 🎓 Lessons learned(Successes)
+- Opportuntiies for Improvement  
+
+Designed for executive leadership, legal teams, and IT security management.
+
+---
