@@ -89,7 +89,7 @@ Link: srv-61.kim.johnson.biz/login
 - Malicious Infrastructure Mapping
 - Behavioural Correlation
 - Credential Hygiene Monitoring
-- Anomaly Detection
+- Signature Based Detection
 - Risk Mitigation Planning
 - Phishing Campaign Recognition
 
