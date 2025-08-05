@@ -82,6 +82,7 @@ Link: srv-61.kim.johnson.biz/login
 - Threat Hunting
 - DNS Analysis
 - Network Forensics
+- Endpoint Detection
 - Security Awareness & User Behaviour Analysis
 - Web Traffic & Behaviour Analysis
 - HTTP Method Analysis
